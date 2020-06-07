@@ -1,4 +1,4 @@
-# Corona-Controller
+# CORONA-CONTROLLER
 MATLAB software of the algorithm developed as a part of  Semester Project of SC 205 course.(Instructor: Prof. Manish K. Gupta)
 It demonstrates how concepts of Discrete Mathematics like probability and Graph theory can be used to solve major problems we are facing today.
 
